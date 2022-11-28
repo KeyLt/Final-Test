@@ -1,0 +1,15 @@
+D:\Final test\Final Test\Proga\bin\Debug\net6.0\Proga.exe
+D:\Final test\Final Test\Proga\bin\Debug\net6.0\Proga.deps.json
+D:\Final test\Final Test\Proga\bin\Debug\net6.0\Proga.runtimeconfig.json
+D:\Final test\Final Test\Proga\bin\Debug\net6.0\Proga.dll
+D:\Final test\Final Test\Proga\bin\Debug\net6.0\Proga.pdb
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.csproj.AssemblyReference.cache
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.AssemblyInfoInputs.cache
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.AssemblyInfo.cs
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.csproj.CoreCompileInputs.cache
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.dll
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\refint\Proga.dll
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.pdb
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\Proga.genruntimeconfig.cache
+D:\Final test\Final Test\Proga\obj\Debug\net6.0\ref\Proga.dll
